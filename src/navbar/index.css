@@ -1,0 +1,41 @@
+.nav-bg {
+  background-color: #2c0e3a;
+  height: 12vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  padding-left: 8%;
+  padding-right: 8%;
+  margin: 0px;
+  list-style-type: none;
+  margin: 0px;
+}
+.logo-img {
+  width: 14%;
+}
+.timer-container {
+  display: flex;
+  align-items: center;
+}
+.score-time-container {
+  display: flex;
+  align-items: center;
+}
+.timer-img {
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}
+.score-txt {
+  color: #ffffff;
+  margin-right: 16px;
+}
+.time-txt {
+  color: #ffffff;
+}
+.score-count {
+  color: #fec653;
+  font-weight: bold;
+  font-size: 24px;
+}
